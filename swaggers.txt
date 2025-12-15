@@ -1,0 +1,6 @@
+http://localhost:8090/doc/swagger-ui/index.html
+http://localhost:8091/doc/swagger-ui/index.html
+http://localhost:8092/doc/swagger-ui/index.html
+http://localhost:8093/doc/swagger-ui/index.html
+http://localhost:8094/doc/swagger-ui/index.html
+http://localhost:8095/doc/swagger-ui/index.html
